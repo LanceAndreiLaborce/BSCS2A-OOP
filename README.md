@@ -1,1 +1,2 @@
-# BSCS2A-OOP
+Lance Andrei L. Laborce
+Cook
